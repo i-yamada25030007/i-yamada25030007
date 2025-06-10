@@ -12,10 +12,6 @@
 
 ## 🌟 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="120" height="120" alt="Flutter" />
-</div>
-
 <p align="center">
   <br>
   <strong>Hi, I'm i-yamada! 👋</strong>
