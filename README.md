@@ -45,7 +45,7 @@
 
 ### 🔧 Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 </td>
@@ -58,7 +58,7 @@
 
 ### 🎨 Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://skillicons.dev/icons?i=illustlator,photoshop" />
 </p>
 
 ### 💻 Languages & Frameworks
