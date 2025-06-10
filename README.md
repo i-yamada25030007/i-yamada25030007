@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+i-yamada+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+i-yamada+%F0%9F%91%8B;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
@@ -54,7 +54,7 @@
 
 ### 🎨 Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=illustlator,photoshop" />
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop" />
 </p>
 
 ### 💻 Languages & Frameworks
